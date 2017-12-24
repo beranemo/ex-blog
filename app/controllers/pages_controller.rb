@@ -14,4 +14,8 @@ class PagesController < ApplicationController
     render(json: params)
   end
   
+  # 其實 hello4 沒定義是沒差的
+  # def hello4
+  # end
+  
 end
